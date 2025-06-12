@@ -59,7 +59,7 @@ This project implements a basic online voting system. It allows users to cast vo
 
 ## Usage
 
-1.  Access the application through your web browser (e.g., `http://localhost:8081/onlinevotingsystem`).
+1.  Access the application through your web browser (e.g., `http://localhost:8080/onlinevotingsystem`).
 2.  Register/Login as a user.
 3.  Cast your vote for a candidate.
 4.  View real-time vote results and statistics on the results page.
